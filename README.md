@@ -1,4 +1,4 @@
-TradeTwice - A Product Reselling Platform for College Students
+# TradeTwice - A Product Reselling Platform for College Students
 
 Overview
 
