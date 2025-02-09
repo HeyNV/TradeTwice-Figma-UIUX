@@ -1,2 +1,2 @@
-# TradeTwice-Figma-UI design
-A structured and interactive UI design for a product reselling platform within a college ecosystem. Designed in Figma with a focus on clean layouts, intuitive navigation, and user-friendly visuals.
+# TradeTwice- UI Design Prototype  
+TradeTwice is a "product reselling platform within a college", designed with a structured UI approach in Figma. This project explores UI elements such as layout, typography and buttons
