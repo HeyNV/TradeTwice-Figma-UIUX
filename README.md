@@ -28,10 +28,10 @@ The UI maintains a consistent Jamolhari font throughout the platform for clarity
 
 General Text
 
-Font: Jamolhari
-Size: 12px - 32px
-Case: Lowercase
-Usage: General text, product descriptions
+- Font: Jamolhari
+- Size: 12px - 32px
+- Case: Lowercase
+- Usage: General text, product descriptions
 
 Button Typography
 
