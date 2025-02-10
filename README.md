@@ -8,20 +8,19 @@ TradeTwice is a UI design prototype built in Figma to facilitate product reselli
 [TradeTwice UI Design]
 https://www.figma.com/proto/rQ42nQzllUzDLj7J3XsMUm/Tradetwice-UI-design?page-id=0%3A1&node-id=71-7&p=f&viewport=815%2C906%2C0.23&t=3cZujKjcXLbF5TAA-1&scaling=scale-down&content-scaling=fixed
 
-Features
+## 📌 Features
 
-Features
+- ✅ **Home Page** – Displays featured products and recent listings.  
+- ✅ **Product Listing Pages** – Browse available products with images and details.  
+- ✅ **Product Details Page** – View item descriptions, seller details, and purchase options.  
+- ✅ **Sell Product Page** – Allows users to post ads for their products.  
+- ✅ **User Profile Page** – Displays user details and listed items.  
+- ✅ **Seller Page** – Shows items uploaded by a seller.  
+- ✅ **Cart Page** – Users can manage selected items before checkout.  
+- ✅ **Out of Stock Page** – Indicates unavailable products.  
+- ✅ **Login & Signup Pages** – Secure authentication for users.  
+- ✅ **View More Page** – Displays extended product details.  
 
-✅ Home Page – Displays featured products and recent listings.
-✅ Product Listing Pages – Browse available products with images and details.
-✅ Product Details Page – View item descriptions, seller details, and purchase options.
-✅ Sell Product Page – Allows users to post ads for their products.
-✅ User Profile Page – Displays user details and listed items.
-✅ Seller Page – Shows items uploaded by a seller.
-✅ Cart Page – Users can manage selected items before checkout.
-✅ Out of Stock Page – Indicates unavailable products.
-✅ Login & Signup Pages – Secure authentication for users.
-✅ View More Page – Displays extended product details.
 
 Typography
 
