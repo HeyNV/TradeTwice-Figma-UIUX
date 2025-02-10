@@ -36,8 +36,13 @@ Button Typography
 
 Different buttons use specific typography for better visibility:
 
-| Left Align | Center Align | Right Align |
-|:-----------|:-----------:|------------:|
-| Text 1    | Text 2      | Text 3      |
-| Text 4    | Text 5      | Text 6      |
+| Button Name         | Font                   | width  | height |
+|---------------------|-----------------------|------:|------:|
+| Buy Items in Cart  | Single Line/Body Base  | 36px  | 173px |  
+| Contact Seller     | M3/Label/Large         | 20px  |  89px |  
+| Add to Cart        | M3/Label/Large         | 20px  |  71px | 
+| Make Offer         | M3/Label/Large         | 20px  |  69px | 
+| Call Seller        | Single Line/Body Base  | 16px  | 143px |  
+| Log Out           | Single Line/Body Base  | 21px  |  75px |  
+| Log in            | Jamolhari               | 135px | 21px |
 
