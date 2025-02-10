@@ -37,7 +37,7 @@ Button Typography
 
 Different buttons use specific typography for better visibility:
 
-| Button Name         | Font                   | width  | height |
+| Button Name         | Font                   | height  | width |
 |---------------------|-----------------------|------:|------:|
 | Buy Items in Cart  | Single Line/Body Base  | 36px  | 173px |  
 | Contact Seller     | M3/Label/Large         | 20px  |  89px |  
@@ -46,4 +46,27 @@ Different buttons use specific typography for better visibility:
 | Call Seller        | Single Line/Body Base  | 16px  | 143px |  
 | Log Out           | Single Line/Body Base  | 21px  |  75px |  
 | Log in            | Jamolhari               | 135px | 21px |
+
+Color Palette
+
+The following colors are used across the TradeTwice UI design:
+
+Primary Color
+
+- #3E3E3E – Used across all 10 interfaces.
+
+## 🎨 Button Colors
+
+| Button Name        | Color Code  |
+|--------------------|------------|
+| Login            | `#D9D9D9`  |
+| Contact Seller   | `#FFFFFF`  |
+| Add to Cart      | `#FFFFFF`  |
+| Call Seller      | `#B3B3B3`  |
+| Log Out         | `#EC221F`  |
+| Go to Cart      | `#B3B3B3`  |
+| My Orders       | `#000000`  |
+| Buy Items       | `#FFFFFF`  |
+| Sell Items      | `#FFFFFF`
+
 
