@@ -47,15 +47,14 @@ Different buttons use specific typography for better visibility:
 | Log Out           | Single Line/Body Base  | 21px  |  75px |  
 | Log in            | Jamolhari               | 135px | 21px |
 
-Color Palette
+## Color Palette
 
 The following colors are used across the TradeTwice UI design:
 
-Primary Color
-
+- Primary Color
 - #3E3E3E – Used across all 10 interfaces.
 
-## 🎨 Button Colors
+- 🎨 Button Colors
 
 | Button Name        | Color Code  |
 |--------------------|------------|
