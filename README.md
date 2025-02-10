@@ -51,10 +51,10 @@ Different buttons use specific typography for better visibility:
 
 The following colors are used across the TradeTwice UI design:
 
-#### Primary Color
+### Primary Color
 - #3E3E3E – Used across all 10 interfaces.
 
-#### 🎨 Button Colors
+### 🎨 Button Colors
 
 | Button Name        | Color Code  |
 |--------------------|------------|
@@ -68,4 +68,9 @@ The following colors are used across the TradeTwice UI design:
 | Buy Items       | `#FFFFFF`  |
 | Sell Items      | `#FFFFFF`
 
+
+Connect with Me
+
+- 👨‍💻 GitHub: https://github.com/HeyNV
+- 🔗 LinkedIn: www.linkedin.com/in/nirnay-verma-95926b2b8
 
