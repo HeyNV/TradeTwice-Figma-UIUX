@@ -8,7 +8,7 @@ TradeTwice is a UI design prototype built in Figma to facilitate product reselli
 [TradeTwice UI Design]
 https://www.figma.com/proto/rQ42nQzllUzDLj7J3XsMUm/Tradetwice-UI-design?page-id=0%3A1&node-id=71-7&p=f&viewport=815%2C906%2C0.23&t=3cZujKjcXLbF5TAA-1&scaling=scale-down&content-scaling=fixed
 
-## 📌 Features
+### 📌 Features
 
 - ✅ **Home Page** – Displays featured products and recent listings.  
 - ✅ **Product Listing Pages** – Browse available products with images and details.  
@@ -22,7 +22,7 @@ https://www.figma.com/proto/rQ42nQzllUzDLj7J3XsMUm/Tradetwice-UI-design?page-id=
 - ✅ **View More Page** – Displays extended product details.  
 
 
-Typography
+### Typography
 
 The UI maintains a consistent Jamolhari font throughout the platform for clarity and readability.
 
